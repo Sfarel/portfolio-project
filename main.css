@@ -1,0 +1,33 @@
+
+  body {
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    background-color: #ff4500;
+
+  }
+
+  .header {
+    display: block;
+    margin: 0 auto 0 auto;
+    background-color: #4c4cdc;
+    color: #ffffff;
+  }
+  .nav {
+    display:inline;
+  }
+  .content {
+    background-color: #ff4500;
+    color: #ffffff;
+    padding: 15px;
+  }
+  .img {
+    float: left;
+  }
+  p {
+    width: 300px;
+    margin: 0 15px;
+  }
+  Contact GitHub API Training Shop Blog About
+
+}
